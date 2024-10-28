@@ -1,0 +1,3 @@
+[submodule "projects/cyberliterature-timeline"]
+	path = projects/cyberliterature-timeline
+	url = https://github.com/nwrafael/cyberliterature-timeline.git
