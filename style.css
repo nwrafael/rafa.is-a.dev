@@ -37,7 +37,7 @@ header > h1 {
     font-weight: 600;
 }
 
-header > h1:hover {
+header > h1 > a:hover {
     color: white;
     transition-duration: 0.5s;
     cursor: pointer;
@@ -53,9 +53,13 @@ a {
     
 }
 
-main#landing {
-    margin-top: 100px;
-    text-align: center;
+a:hover {
+    border-bottom: 2px solid ;
+}
+
+main {
+    margin-top: 80px;
+    justify-content: center;
     }
 
 main {
