@@ -1,1 +1,2 @@
-#rafa.is-a.dev
+# rafa.is-a.dev
+just my personal portfolio
